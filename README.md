@@ -8,11 +8,11 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can use the app to scan the barcodes on food
-- [ ] User can store their foods in an online database for the app
-- [ ] User can specify what the foods that are being stored are
-- [ ] User can generate a random recipe
-- [ ] Recipe is generated based on the ingredients the user has
+- [+] User can use the app to scan the barcodes on food
+- [+] User can store their foods in an online database for the app
+- [+] User can specify what the foods that are being stored are
+- [+] User can generate a random recipe
+- [+] Recipe is generated based on the ingredients the user has
 
 The following **stretch** features are implemented:
 
